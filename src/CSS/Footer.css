@@ -1,0 +1,64 @@
+.About_company{
+    height: 60vh;
+    background-color:#1d2024;
+    display: flex;
+    justify-content: center;
+   
+}
+.outer_footer{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    height: 80%;
+    width: 25%;
+   color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+
+}
+.section1{
+    width:100%;
+    text-align: justify;
+    margin-bottom: 1rem;
+}
+.boldit{
+  font-weight: 900;
+
+}
+.Logoo{
+    object-fit: contain;
+  
+}
+.Food_menu {
+    text-align: start;
+}
+ul li{
+    list-style: none;
+    text-align: start;
+}
+.mb{
+    margin-bottom: 2rem;
+}
+.MB{
+    margin-bottom: 1rem;
+}
+.closebtn{
+    background-color:#E7272D;
+    border-radius: 4px;
+     border: none;
+     color: white;
+     padding: 0.3rem 1rem;
+     font-size: 1rem;
+     margin-left: 8rem;
+     cursor: pointer;
+}
+.otiming{
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem 0rem;
+}

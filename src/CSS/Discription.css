@@ -1,0 +1,46 @@
+.Discription1{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about{
+    height: 40vh;
+    width: 20%;
+    flex-direction: column;
+    justify-content: center;
+   }
+.logo11{
+    height: 40%;
+    display: flex;
+    justify-content:center
+}
+.title{
+    height: 20%;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 800;
+    color: #2b2c2f;
+ 
+}
+.minus{
+    height: 10%;
+    display: flex;
+    justify-content: center;
+  
+}
+.summary{
+    height: 30%;
+    text-align: center;
+}
+.cart1{
+ font-size: 5rem;
+}
+.cart2{
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #f9b129;
+}
+.brief{
+    color: #9b9b9b;;
+}
